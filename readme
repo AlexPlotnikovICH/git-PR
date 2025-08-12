@@ -1,3 +1,8 @@
+<<<<<<< HEAD
     PID TTY          TIME CMD
-    315 pts/0    00:00:00 bash
+#    315 pts/0    00:00:00 bash
    1071 pts/0    00:00:00 ps
+=======
+  PID TTY           TIME CMD
+ 2441 ttys000    0:00.04 -zsh
+>>>>>>> upstream/main
